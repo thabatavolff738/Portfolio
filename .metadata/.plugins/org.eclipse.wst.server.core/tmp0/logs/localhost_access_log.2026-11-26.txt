@@ -19,3 +19,10 @@
 0:0:0:0:0:0:0:1 - - [26/Nov/2026:08:20:05 -0300] "GET /Portfolio1/contatos HTTP/1.1" 200 7440
 0:0:0:0:0:0:0:1 - - [26/Nov/2026:08:20:07 -0300] "GET /Portfolio1/index HTTP/1.1" 200 6083
 0:0:0:0:0:0:0:1 - - [26/Nov/2026:08:20:12 -0300] "GET /Portfolio1/login HTTP/1.1" 200 4234
+0:0:0:0:0:0:0:1 - - [26/Nov/2026:08:50:12 -0300] "GET /Portfolio1/ HTTP/1.1" 200 6083
+0:0:0:0:0:0:0:1 - - [26/Nov/2026:08:50:12 -0300] "GET /Portfolio1/assets/css/bootstrap.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Nov/2026:08:50:12 -0300] "GET /Portfolio1/assets/css/estilos.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Nov/2026:08:50:12 -0300] "GET /Portfolio1/assets/js/jquery-3.7.1.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Nov/2026:08:50:12 -0300] "GET /Portfolio1/assets/js/bootstrap.bundle.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Nov/2026:08:50:12 -0300] "GET /Portfolio1/assets/img/cursos.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Nov/2026:08:50:22 -0300] "GET /Portfolio1/contatos HTTP/1.1" 200 7440
